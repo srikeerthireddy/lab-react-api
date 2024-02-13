@@ -1,0 +1,18 @@
+body{
+   margin: 20px; 
+}
+
+.title{
+    border: 1px solid lightgray;
+  padding: 20px;
+  width: 1450px;
+ 
+}
+.flex{
+    display:flex;
+    gap: 20px;
+}
+h2{
+    color: blueviolet;
+}
+
